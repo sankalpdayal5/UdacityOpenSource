@@ -16,7 +16,7 @@ In the main directory, you will get output.jpg as your output.
 ## Contributors
 
 [Sankalp Dayal](https://github.com/sankalpdayal5/) - @Sankalp Dayal (slack id)
-
+Ishan Arora - @Ishan Arora (slack id)
 
 ## Contribute
 
